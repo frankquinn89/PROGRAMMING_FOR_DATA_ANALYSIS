@@ -1,6 +1,15 @@
 # PROGRAMMING_FOR_DATA_ANALYSIS 
 
+<p align="center">
+  <img src="https://github.com/frankquinn89/PROGRAMMING_FOR_DATA_ANALYSIS/assets/16778503/2935d1df-0271-4045-8961-9e540cd2113a" alt="image" width="500" height="300">
+</p>
+
 ## The Project
+
+This project focuses on heart disease. It will examine various variables related to heart disease diagnosis such as age, sex, cholestrol and chest pain.
+
+## Project Outline
+
 For this project you must create a data set by simulating a real-world phenomenon of
 your choosing. You may pick any phenomenon you wish. 
 

@@ -47,3 +47,12 @@ Note that this project is about simulation – you must synthesise a data set.
 6. Type git clone, and then paste the URL you copied in Step 2.
 7. Press Enter. Your local clone will be created.
 
+## Library info
+[pandas](https://pandas.pydata.org/) : Data manipulation and analysis. Features include: DataFrame and Series structures, handling missing data, reading/writing data formats.
+
+[matplotlib](https://matplotlib.org/): 2D plotting library. Features include : Line plots, scatter plots, bar plots, customization, subplots.
+
+[seaborn](https://seaborn.pydata.org/):  Statistical data visualization. Features include : High-level interface, attractive statistical graphics, integration with pandas.
+
+[numpy](https://numpy.org/): Scientific computing with arrays. Features include: Efficient array operations, mathematical functions, broadcasting, integration with scientific libraries.
+
